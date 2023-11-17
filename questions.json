@@ -1,4 +1,46 @@
 {
+    "National Environmental Concerns": [
+        "How do you think climate change will affect your country in the next decade?",
+        "What measures can individuals take to reduce their carbon footprint?",
+        "Do you think renewable energy sources will replace fossil fuels in the future?",
+        "What's your opinion on the use of nuclear energy as an alternative to fossil fuels?",
+        "How can governments encourage people to be more environmentally conscious?"
+    ],
+    "Personal Values and Ideals": [
+        "What personal values are most important to you?",
+        "Do you think your country's culture influences your personal values? How?",
+        "How do you define success in life?",
+        "What do you think about the role of education in shaping personal values?",
+        "In what ways do you think technology is affecting our values and ideals?"
+    ],
+    "The World of Work": [
+        "What do you think will be the biggest changes in the workplace in the next decade?",
+        "How has remote work changed your view on the traditional office setting?",
+        "What role do you think technology will play in the future of work?",
+        "Do you think the concept of a 9-5 workday is outdated?",
+        "How do you balance work and personal life?"
+    ],
+    "Public Figures Past and Present": [
+        "Who's a historical figure you admire and why?",
+        "Do you think public figures have a responsibility to be role models?",
+        "How do you think the media influences our perception of public figures?",
+        "What lessons can we learn from the lives of past public figures?",
+        "Who is a current public figure that you admire and why?"
+    ],
+    "Society and Living Standards": [
+        "What do you think are the biggest challenges facing society today?",
+        "How do you think living standards have changed in the last 50 years?",
+        "What role should governments play in improving living standards?",
+        "How do technological advancements impact society and living standards?",
+        "What measures can be taken to reduce poverty and improve living standards?"
+    ],
+    "AI and Human Relationships": [
+        "What are your thoughts on the ethical implications of AI in society?",
+        "Do you believe AI will enhance or diminish human relationships?",
+        "How can we ensure that AI development is aligned with human values?",
+        "What are the potential benefits and risks of AI in healthcare?",
+        "How do you think AI will change the way we work in the future?"
+    ],
     "Travel": [
         "What's the most memorable trip you've ever taken?",
         "If you could visit any country in the world, where would you go?",
