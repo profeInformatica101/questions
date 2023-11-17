@@ -1,0 +1,43 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conversation Questions</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="text-center">Conversation Questions</h2>
+                <!-- Selector de temas -->
+                <div class="form-group">
+                    <label for="topicSelector">Choose a topic:</label>
+                    <select class="form-control" id="topicSelector">
+                        <!-- Las opciones se cargarán aquí -->
+                    </select>
+                </div>
+                <!-- Área para mostrar la pregunta -->
+                <div class="question-area mt-4">
+                    <p id="questionText" class="lead text-center">Your question will appear here.</p>
+                </div>
+                <!-- Botón para obtener una nueva pregunta -->
+                <div class="text-center">
+                    <button id="newQuestionButton" class="btn btn-primary">Get a New Question</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS, Popper.js, and jQuery -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+    <!-- Tu script personalizado para manejar la lógica de las preguntas -->
+    <script src="script.js"></script>
+</body>
+</html>
